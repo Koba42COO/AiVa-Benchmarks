@@ -42,3 +42,19 @@ See benchmark results for details.
 **AIVA - Universal Intelligence with Competitive Benchmark Performance**
 
 For more information, see the [benchmark comparison report](aiva_benchmark_comparison_report.md).
+
+
+## 🔍 Verification
+
+All supporting materials for verification are included:
+- **Scripts:** `scripts/` - Benchmark testing frameworks
+- **Documentation:** `docs/` - Complete methodology and guides
+- **Verification:** `verification/` - Verification tools and checklists
+
+See `verification/README.md` for complete verification instructions.
+
+### Quick Verify
+
+```bash
+python3 verification/verify_results.py
+```
